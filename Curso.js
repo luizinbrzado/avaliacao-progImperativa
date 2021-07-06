@@ -1,5 +1,7 @@
+// Importando objeto e função
 const {aluno, Aluno} = require('./Estudantes');
 
+// objeto curso
 let curso = {
     nome: 'JavaScript',
     notaAprovacao: 7,
